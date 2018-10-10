@@ -1,0 +1,10 @@
+﻿  WordCount.cpp
+e:\031602315&031602344\src\wordcount\wordcount.cpp(126): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\031602315&031602344\src\wordcount\wordcount.cpp(155): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  AllFunc.cpp
+e:\031602315&031602344\src\wordcount\allfunc.cpp(305): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\031602315&031602344\src\wordcount\allfunc.cpp(753): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
+AllFunc.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:REF”规范)
+  WordCount.vcxproj -> E:\031602315&031602344\src\x64\Debug\WordCount.exe

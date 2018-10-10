@@ -1,0 +1,18 @@
+[2018-10-07 22:14:01] [info] Start Program:
+Path:"E:\新建文件夹\test\031602315\src\Debug\WordCount.exe"
+Arguments:
+Working directory: "E:\新建文件夹\test\031602315\src\WordCount\"
+Modules: Selected: E:\新建文件夹\test\031602315\src\Debug\WordCount.exe Excluded: 
+Sources: Selected: E:\新建文件夹\test\031602315\src\WordCount Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\pite\AppData\Local\Temp\cp1mqwlv.4oo 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2018-10-07 22:14:01] [info] Module: E:\新建文件夹\test\031602315\src\Debug\WordCount.exe is selected because it matches selected pattern: E:\新建文件夹\test\031602315\src\Debug\WordCount.exe
